@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="purple_50">#EDE7F6</color>     <!-- Very light purple -->
+    <color name="purple_100">#D1C4E9</color>
+    <color name="purple_200">#B39DDB</color>
+    <color name="purple_300">#9575CD</color>
+    <color name="purple_400">#7E57C2</color>
+    <color name="purple_500">#6200EE</color>    <!-- Main primary color -->
+    <color name="purple_600">#5E35B1</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_800">#4527A0</color>
+    <color name="purple_900">#311B92</color>
+
+    <!-- Secondary / Accent colors -->
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Common UI colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#424242</color>
+
+    <!-- Background -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+
+
+    <color name="charcoal_gray">#212121</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+
+    <color name="black_87">#DE000000</color>
+    <color name="black_54">#8A000000</color>
+    <color name="black_38">#61000000</color>
+
+
+    <color name="red">#a20000</color>
+
+    <!-- Yellow shades -->
+    <color name="yellow_50">#FFFDE7</color>
+    <color name="yellow_100">#FFF9C4</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_300">#FFF176</color>
+    <color name="yellow_400">#FFEE58</color>
+    <color name="yellow_500">#FFEB3B</color>  <!-- Primary Yellow -->
+    <color name="yellow_600">#FDD835</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="yellow_800">#F9A825</color>
+    <color name="yellow_900">#F57F17</color>
+
+    <!-- Red shades -->
+    <color name="red_50">#FFEBEE</color>
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_300">#E57373</color>
+    <color name="red_400">#EF5350</color>
+    <color name="red_500">#F44336</color>  <!-- Primary Red -->
+    <color name="red_600">#E53935</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_800">#C62828</color>
+    <color name="red_900">#B71C1C</color>
+
+</resources>
